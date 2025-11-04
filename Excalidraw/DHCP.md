@@ -51,4 +51,3 @@ The following videos further details:
 * Protocol: [Dynamic Host Configuration Protocol | How Does DHCP Work](https://www.youtube.com/watch?v=Wm7RtmUpZ94).
 * Manual setup: https://www.youtube.com/watch?v=e6-TaH5bkjo
 * Messages details: https://www.youtube.com/watch?v=4pkDL1pgCgQ
-* 
