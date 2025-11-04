@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "613fedb1769aad49",
+    "type": "split",
+    "children": [
+      {
+        "id": "46731edabcbc223c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5a558cfbe5b8741",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1.excalidraw"
+            }
+          },
+          {
+            "id": "856065bad82aea08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNS Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DNS Setup"
+            }
+          },
+          {
+            "id": "76913f06cdd526d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DHCP Ports.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DHCP Ports"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44897b5e9006d788",
+    "type": "split",
+    "children": [
+      {
+        "id": "8cfdbf97f1589117",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d890c8191208acfd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "507f60c10771205e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "de4915c64fba4f01",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "354adb2d95b9f673",
+    "type": "split",
+    "children": [
+      {
+        "id": "c33a12c8fb71467c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4644002453aa67de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texture \"load_sprites()\".md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Texture \"load_sprites()\""
+            }
+          },
+          {
+            "id": "ca4f813812c40044",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "main.rs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for main.rs"
+            }
+          },
+          {
+            "id": "35c7988a224dd393",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1f0200db3760cc3d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5511d8d160455a4f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "grass.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of grass"
+            }
+          },
+          {
+            "id": "761be8a2e15b5a67",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "templates:Insert template": false,
+      "daily-notes:Open today's daily note": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "d5a558cfbe5b8741",
+  "lastOpenFiles": [
+    "DNS Setup.md",
+    "Excalidraw/1.excalidraw.md",
+    "power-button-svgrepo-com.svg",
+    "41361849-the-start-icon-start-symbol-flat-vector-illustration.png",
+    "systemd-resolved.md",
+    "systemd-networkd.md",
+    "DHCP Ports.md",
+    "Excalidraw/dhclient.md",
+    "Excalidraw/DHCP.md",
+    "broadcast.md",
+    "toppng.com-dora-explorer-wiki-birthday-dora-the-explorer-1204x1557.png",
+    "Excalidraw/Firmware.md",
+    "linux-opened-svgrepo-com.svg",
+    "Excalidraw/MAC Address.md",
+    "NIC-Labelled.svg",
+    "laptop-svg-6149345_0.svg",
+    "laptop-svg-6149345.svg",
+    "rgtaylor_csc_net_computer.svg",
+    "Excalidraw",
+    "Excalidraw/backend IO Evolution.excalidraw.md",
+    "5187082e-8a89-42de-9c29-83892aa9b3ac.png",
+    "Excalidraw/UML.excalidraw.md",
+    "Excalidraw/Microservices Architecture.md",
+    "UML_logo.svg",
+    "Excalidraw/Layered Architecture.md",
+    "Excalidraw/Monolithic Architecture.md",
+    "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
+    "When do we use `length` and `length()` in Java?.md",
+    "Untitled.canvas",
+    "Untitled 1.md",
+    "Checkpoint-1.md",
+    "SingleLinkedList manual.md",
+    "string pool.md",
+    "Q&A.md",
+    "CircularLinkedList.md",
+    "Checkpoint-2.md",
+    "HarmoniousFusion.md",
+    "Untitled 1.canvas",
+    "copilot-custom-prompts"
+  ]
+}
