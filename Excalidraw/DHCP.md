@@ -39,6 +39,8 @@ The process a DHCP client uses to obtain an IP address is a four-step sequence c
     * The selected DHCP server finalizes the process by sending a **DHCPACK** (Acknowledgement) message.
     * This message confirms the configuration parameters and the **lease time**. The server then marks the IP address as officially leased in its database. The client can now configure its TCP/IP settings and fully participate in the network.
 
+> DHCP use [[UDP]] as communication protocol
+
 ### ⏳ DHCP Lease and Renewal
 
 The IP address assigned is not permanent; it's a **lease** with an expiration time.

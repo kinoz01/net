@@ -20,31 +20,17 @@
             }
           },
           {
-            "id": "856065bad82aea08",
+            "id": "9aa5a895cd0b4b0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DNS Setup.md",
+                "file": "ISP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DNS Setup"
-            }
-          },
-          {
-            "id": "76913f06cdd526d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DHCP Ports.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DHCP Ports"
+              "title": "ISP"
             }
           }
         ]
@@ -118,14 +104,10 @@
             "id": "4644002453aa67de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texture \"load_sprites()\".md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Texture \"load_sprites()\""
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -134,17 +116,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.rs.md",
+                "file": "Excalidraw/1.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for main.rs"
+              "title": "Backlinks for 1.excalidraw"
             }
           },
           {
@@ -153,11 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/1.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 1.excalidraw"
             }
           },
           {
@@ -181,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "grass.md",
+                "file": "Excalidraw/1.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of grass"
+              "title": "Outline of 1.excalidraw"
             }
           },
           {
@@ -222,44 +205,44 @@
   },
   "active": "d5a558cfbe5b8741",
   "lastOpenFiles": [
-    "dora.png",
-    "toppng.com-dora-explorer-wiki-birthday-dora-the-explorer-1204x1557.png",
+    "NAT.md",
     "Excalidraw/1.excalidraw.md",
+    "Link-Layer Discovery & Authentication.md",
+    "ISP.md",
+    "TCP.md",
+    "1592651906router-symbol.svg",
+    "Internet Infrastructure.md",
+    "Web-Browser.svg",
+    "Ethernet frames.md",
+    "remote vs local.md",
+    "systemd-networkd.md",
+    "IP Address.md",
+    "Subnet mask.md",
+    "Checksum calculation.md",
+    "Checksums.md",
+    "UDP.md",
+    "linux-opened-svgrepo-com.svg",
+    "Checksum.md",
+    "Excalidraw/DHCP.md",
+    "Excalidraw/dhclient.md",
+    "ARP.md",
+    "toppng.com-dora-explorer-wiki-birthday-dora-the-explorer-1204x1557.png",
+    "Excalidraw/MAC Address.md",
+    "dora.png",
     "—Pngtree—hand drawn grey router illustration_4551521.png",
     "DNS Setup.md",
     "power-button-svgrepo-com.svg",
     "41361849-the-start-icon-start-symbol-flat-vector-illustration.png",
     "systemd-resolved.md",
-    "systemd-networkd.md",
     "DHCP Ports.md",
-    "Excalidraw/dhclient.md",
-    "Excalidraw/DHCP.md",
     "broadcast.md",
     "Excalidraw/Firmware.md",
-    "linux-opened-svgrepo-com.svg",
-    "Excalidraw/MAC Address.md",
     "NIC-Labelled.svg",
     "laptop-svg-6149345_0.svg",
-    "laptop-svg-6149345.svg",
-    "rgtaylor_csc_net_computer.svg",
     "Excalidraw",
     "Excalidraw/backend IO Evolution.excalidraw.md",
-    "5187082e-8a89-42de-9c29-83892aa9b3ac.png",
     "Excalidraw/UML.excalidraw.md",
-    "Excalidraw/Microservices Architecture.md",
-    "Excalidraw/Layered Architecture.md",
-    "Excalidraw/Monolithic Architecture.md",
-    "Excalidraw/Drawing 2025-11-02 08.30.23.excalidraw.md",
-    "When do we use `length` and `length()` in Java?.md",
     "Untitled.canvas",
-    "Untitled 1.md",
-    "Checkpoint-1.md",
-    "SingleLinkedList manual.md",
-    "string pool.md",
-    "Q&A.md",
-    "CircularLinkedList.md",
-    "Checkpoint-2.md",
-    "HarmoniousFusion.md",
     "Untitled 1.canvas",
     "copilot-custom-prompts"
   ]
