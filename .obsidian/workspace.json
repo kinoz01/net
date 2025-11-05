@@ -11,12 +11,14 @@
             "id": "d5a558cfbe5b8741",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/1.excalidraw.md"
+                "file": "IP Address.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "1.excalidraw"
+              "icon": "lucide-file",
+              "title": "IP Address"
             }
           },
           {
@@ -205,8 +207,8 @@
   },
   "active": "d5a558cfbe5b8741",
   "lastOpenFiles": [
-    "NAT.md",
     "Excalidraw/1.excalidraw.md",
+    "NAT.md",
     "Link-Layer Discovery & Authentication.md",
     "ISP.md",
     "TCP.md",

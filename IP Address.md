@@ -243,6 +243,8 @@ Example: computer interface `eno1`, you can find it either using Linux commands.
 sudo ip addr del 192.168.1.10/24 dev eno1
 ```
 
+`dev` means “device” — it tells `ip` command which network interface you’re talking about.
+
 **Add new one**
 
 ```bash
@@ -255,11 +257,24 @@ sudo ip addr add 192.168.1.20/24 dev eno1
 sudo ip route replace default via 192.168.1.1
 ```
 
+*Meaning*:
+If a packet’s destination is not in the local network (192.168.56.0/24), send it to the router at 192.168.56.1 — the gateway — which will handle forwarding it to the internet (via NAT).
+
+>Note: you don’t use dev here, because Linux can figure out which interface to use based on the gateway’s IP subnet.
+
 Check:
 
 ```bash
 ip addr show eno1
 ip route show
+```
+
+You can also use these commands:
+
+```bash
+ip addr flush dev eth0
+ip addr add 192.168.56.102/24 dev eth0
+ip route add default via 192.168.56.1
 ```
 
 You can also **renew via DHCP**:
@@ -270,6 +285,29 @@ sudo dhclient eno1     # request new one
 ```
 
 This can result in a completely different IP if the DHCP server assigns a new one.
+
+##### Make it permanent (for Debian/Ubuntu-like systems)
+
+Edit `/etc/network/interfaces`:
+
+```bash
+nano /etc/network/interfaces
+```
+
+Change or add the lines for your interface (`eth0` or `enp0s3`):
+
+```ini
+auto eth0
+iface eth0 inet dhcp
+```
+
+Save and restart networking:
+
+```bash
+systemctl restart networking
+```
+
+Now the system will automatically request a **DHCP lease** each time it boots.
 
 ---
 
@@ -370,3 +408,15 @@ curl ifconfig.me
     -   Resetting ARP and socket bindings.
         
 -   At hardware level: only the bits in packet headers change — same NIC, same MAC, new logical identity.
+
+### Note:
+
+```bash
+timeout --signal SIGINT 1m ping google.com
+```
+
+This command explained:
+
+- `ping google.com`: sends *ICMP (Internet Control Message Protocol) echo requests* to test network reachability.
+
+- `timeout --signal SIGINT 1m`: runs the command for 1 minute and then stops it gracefully (by sending a `SIGINT` like pressing Ctrl-C).
