@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d5a558cfbe5b8741",
+            "id": "6a738fe3debfac9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/TP1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "TP1.excalidraw"
+            }
+          },
+          {
+            "id": "a27155b385381cd8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -20,15 +32,17 @@
             }
           },
           {
-            "id": "6a738fe3debfac9e",
+            "id": "9f731b345686b5cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/TP1.excalidraw.md"
+                "file": "DNS Setup.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "TP1.excalidraw"
+              "icon": "lucide-file",
+              "title": "DNS Setup"
             }
           },
           {
@@ -102,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "354adb2d95b9f673",
@@ -215,18 +230,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d5a558cfbe5b8741",
+  "active": "6a738fe3debfac9e",
   "lastOpenFiles": [
+    "Pasted Image 20251106164818_521.png",
+    "Pasted Image 20251106162823_607.png",
     "Excalidraw/How does the internet work.excalidraw.md",
+    "Excalidraw/TP1.excalidraw.md",
+    "DNS Setup.md",
+    "ISP.md",
+    "goal-svgrepo-com.svg",
+    "Excalidraw/dhclient.md",
+    "—Pngtree—hand drawn grey router illustration_4551521.png",
+    "DHCP Ports.md",
     "Internet Infrastructure.md",
     "The journey of an Ethernet Frame.md",
     "De-encapsulation & Re-encapsulation.md",
     "line-vec.svg",
-    "Excalidraw/TP1.excalidraw.md",
     "IP Address.md",
     "NAT.md",
     "Link-Layer Discovery & Authentication.md",
-    "ISP.md",
     "TCP.md",
     "1592651906router-symbol.svg",
     "Web-Browser.svg",
@@ -240,19 +262,12 @@
     "linux-opened-svgrepo-com.svg",
     "Checksum.md",
     "Excalidraw/DHCP.md",
-    "Excalidraw/dhclient.md",
     "ARP.md",
     "toppng.com-dora-explorer-wiki-birthday-dora-the-explorer-1204x1557.png",
     "Excalidraw/MAC Address.md",
     "dora.png",
-    "—Pngtree—hand drawn grey router illustration_4551521.png",
-    "DNS Setup.md",
     "power-button-svgrepo-com.svg",
-    "41361849-the-start-icon-start-symbol-flat-vector-illustration.png",
     "systemd-resolved.md",
-    "DHCP Ports.md",
-    "broadcast.md",
-    "NIC-Labelled.svg",
     "Excalidraw",
     "Untitled.canvas",
     "Untitled 1.canvas",
