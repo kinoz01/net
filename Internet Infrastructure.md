@@ -6,7 +6,7 @@ The internet is based on **packet-switching** technology. Here’s how a packet 
     When you request a website, your computer breaks the data into smaller **packets** (small chunks of data with headers that define where they’re from, where they’re going, and the order to reassemble them).
     
 2.  **IP Routing**  
-    Each packet is tagged with an **IP address** (destination address) and sent via a **router** to its next destination. Routers are devices that look at the destination IP and forward the packet along the correct path.  
+    Each packet is tagged with an **IP address** (destination address) and sent via a **router** to its next destination. Routers are devices that look at the destination IP and forward the packet along the correct path while doing [[De-encapsulation & Re-encapsulation]].  
     The packet might pass through many routers before it reaches its destination.
     
 3.  **Transmission Medium**  

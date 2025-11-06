@@ -45,4 +45,4 @@ If you’re using **Ethernet**, this phase is simpler:
 -   There’s no SSID or encryption; physical connection = immediate link layer ready.
     
 
-Now that your NIC can send frames to the AP (or Ethernet switch), the next step is to get a network configuration launching DHCP routine first.
+Now that your NIC can send frames to the AP (or Ethernet switch), the next step is to get a network configuration launching DHCP routine.

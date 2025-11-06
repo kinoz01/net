@@ -13,10 +13,22 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/1.excalidraw.md"
+                "file": "Excalidraw/How does the internet work.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "1.excalidraw"
+              "title": "How does the internet work.excalidraw"
+            }
+          },
+          {
+            "id": "6a738fe3debfac9e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/TP1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "TP1.excalidraw"
             }
           },
           {
@@ -205,14 +217,18 @@
   },
   "active": "d5a558cfbe5b8741",
   "lastOpenFiles": [
+    "Excalidraw/How does the internet work.excalidraw.md",
+    "Internet Infrastructure.md",
+    "The journey of an Ethernet Frame.md",
+    "De-encapsulation & Re-encapsulation.md",
+    "line-vec.svg",
+    "Excalidraw/TP1.excalidraw.md",
     "IP Address.md",
-    "Excalidraw/1.excalidraw.md",
     "NAT.md",
     "Link-Layer Discovery & Authentication.md",
     "ISP.md",
     "TCP.md",
     "1592651906router-symbol.svg",
-    "Internet Infrastructure.md",
     "Web-Browser.svg",
     "Ethernet frames.md",
     "remote vs local.md",
@@ -236,12 +252,8 @@
     "systemd-resolved.md",
     "DHCP Ports.md",
     "broadcast.md",
-    "Excalidraw/Firmware.md",
     "NIC-Labelled.svg",
-    "laptop-svg-6149345_0.svg",
     "Excalidraw",
-    "Excalidraw/backend IO Evolution.excalidraw.md",
-    "Excalidraw/UML.excalidraw.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "copilot-custom-prompts"
