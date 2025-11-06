@@ -59,8 +59,7 @@
               "title": "ISP"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 208.5,
+    "collapsed": true
   },
   "right": {
     "id": "354adb2d95b9f673",
@@ -230,12 +230,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a27155b385381cd8",
+  "active": "6a738fe3debfac9e",
   "lastOpenFiles": [
+    "Excalidraw/How does the internet work.excalidraw.md",
     "Excalidraw/TP1.excalidraw.md",
     "Pasted Image 20251106164818_521.png",
     "Pasted Image 20251106162823_607.png",
-    "Excalidraw/How does the internet work.excalidraw.md",
     "DNS Setup.md",
     "ISP.md",
     "goal-svgrepo-com.svg",
