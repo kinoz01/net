@@ -59,7 +59,8 @@
               "title": "ISP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,8 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5,
-    "collapsed": true
+    "width": 208.5
   },
   "right": {
     "id": "354adb2d95b9f673",
@@ -230,12 +230,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a738fe3debfac9e",
+  "active": "a27155b385381cd8",
   "lastOpenFiles": [
+    "Excalidraw/TP1.excalidraw.md",
     "Pasted Image 20251106164818_521.png",
     "Pasted Image 20251106162823_607.png",
     "Excalidraw/How does the internet work.excalidraw.md",
-    "Excalidraw/TP1.excalidraw.md",
     "DNS Setup.md",
     "ISP.md",
     "goal-svgrepo-com.svg",
@@ -266,7 +266,6 @@
     "toppng.com-dora-explorer-wiki-birthday-dora-the-explorer-1204x1557.png",
     "Excalidraw/MAC Address.md",
     "dora.png",
-    "power-button-svgrepo-com.svg",
     "systemd-resolved.md",
     "Excalidraw",
     "Untitled.canvas",
