@@ -82,3 +82,5 @@ Because you received proper replies, this tells us:
 - It resolved `example.com` correctly.
 
 - Therefore it is indeed an *operational DNS resolver*.
+
+https://www.youtube.com/watch?v=DV0q9s94RL8
