@@ -20,32 +20,21 @@
             }
           },
           {
-            "id": "f2c41bbb9f02f0f2",
+            "id": "10f9d0a821f3a637",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Excalidraw/StpQuestion 3.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Excalidraw/How does the internet work.excalidraw.md",
+                "bFile": "Excalidraw/How does the internet work.excalidraw.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "StpQuestion 3"
-            }
-          },
-          {
-            "id": "ba5e13fd3ec9cdc3",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/TP1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "TP1.excalidraw"
+              "icon": "diff",
+              "title": "Diff: How does the internet work.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,15 +204,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6a738fe3debfac9e",
+  "active": "10f9d0a821f3a637",
   "lastOpenFiles": [
     "Excalidraw/StpQuestion 3.md",
     "Excalidraw/How does the internet work.excalidraw.md",
+    "Excalidraw/TP1.excalidraw.md",
     "StpQuestion 1.md",
     "ARP.md",
     "Excalidraw/DHCP.md",
     "StpQuestion 2.md",
-    "Excalidraw/TP1.excalidraw.md",
     "question_mark_cartoony_with_eyes_monsterbrain.svg",
     "DNS Setup.md",
     "VirtualBox network.md",
