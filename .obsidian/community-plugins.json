@@ -3,5 +3,16 @@
   "obsidian-git",
   "persistent-graph",
   "obsidian-excalidraw-plugin",
-  "obsidian-link-embed"
+  "obsidian-link-embed",
+  "dataview",
+  "convert-url-to-iframe",
+  "obsidian-hover-editor",
+  "advanced-canvas",
+  "obsidian-kanban",
+  "obsidian-markmind",
+  "obsidian-quiet-outline",
+  "buttons",
+  "terminal",
+  "runsh",
+  "interactivity"
 ]

@@ -17,5 +17,45 @@
       ],
       "key": "M"
     }
+  ],
+  "footnotes:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "'"
+    }
+  ],
+  "obsidian-hover-editor:bounce-popovers": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Insert"
+    }
+  ],
+  "obsidian-hover-editor:convert-active-pane-to-popover": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "End"
+    }
+  ],
+  "obsidian-hover-editor:open-new-popover": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "obsidian-hover-editor:minimize-active-popover": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
   ]
 }

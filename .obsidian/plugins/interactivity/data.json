@@ -1,0 +1,15 @@
+{
+  "shellExec": "/bin/bash",
+  "shellParams": "-c",
+  "executeOnLoad": "openai.api_key = \"sk-\"\n",
+  "notice": false,
+  "decorateMultiline": false,
+  "linesToSuppress": 1,
+  "separatedShells": false,
+  "prependOutput": ">>> ",
+  "enviromentVariables": "PYTHONIOENCODING=utf8\n",
+  "executeOnUnload": "exit()\n",
+  "regexpCleaner": "^((>>> )|(... ))+",
+  "shortcuts": "@ -> ##param##\n",
+  "advanced": true
+}

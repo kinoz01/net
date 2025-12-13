@@ -1,0 +1,10 @@
+{
+	"id": "runsh",
+	"name": "Runsh",
+	"version": "1.0.4",
+	"minAppVersion": "0.15.0",
+	"description": "Create buttons that run shell commands from your notes.",
+	"author": "Ddone",
+	"authorUrl": "https://github.com/Deedone",
+	"isDesktopOnly": true
+}

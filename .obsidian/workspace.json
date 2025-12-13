@@ -4,50 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "46731edabcbc223c",
-        "type": "tabs",
+        "id": "8d7e7bc5c251b904",
+        "type": "split",
         "children": [
           {
-            "id": "6a738fe3debfac9e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/How does the internet work.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "How does the internet work.excalidraw"
-            }
+            "id": "17de700aa56d035e",
+            "type": "tabs",
+            "dimension": 81.02466793168881,
+            "children": [
+              {
+                "id": "d771fb0381bd0846",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Excalidraw/remote.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "remote.excalidraw"
+                }
+              }
+            ]
           },
           {
-            "id": "d20605af94c8bdac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Excalidraw/StpQuestion 3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "StpQuestion 3"
-            }
-          },
-          {
-            "id": "10f9d0a821f3a637",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
+            "id": "e7c2421584d3fd6e",
+            "type": "tabs",
+            "dimension": 18.975332068311197,
+            "children": [
+              {
+                "id": "ac2b9412f507dd75",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/home/kino/net",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/bash",
+                        "name": "tty1",
+                        "platforms": {
+                          "darwin": true,
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": false,
+                        "rightClickAction": "copyPaste",
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": null
+                    }
+                  },
+                  "icon": "terminal",
+                  "title": "Terminal: kino@pop-os: ~/net"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -80,9 +105,9 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -104,7 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 209.5
   },
   "right": {
     "id": "354adb2d95b9f673",
@@ -173,18 +198,28 @@
             }
           },
           {
+            "id": "51e186c4c96d0fc9",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
             "id": "5511d8d160455a4f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/1.excalidraw.md",
+                "file": "AOP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1.excalidraw"
+              "title": "Outline of AOP"
             }
           },
           {
@@ -198,67 +233,77 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 396.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
-      "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:Create new board": false,
+      "interactivity:Run Interactivity": false
     }
   },
-  "active": "4c15fd799192b32b",
+  "active": "d771fb0381bd0846",
   "lastOpenFiles": [
+    "Excalidraw/remote.excalidraw.md",
     "Excalidraw/How does the internet work.excalidraw.md",
-    "Excalidraw/StpQuestion 3.md",
-    "Excalidraw/TP1.excalidraw.md",
-    "StpQuestion 1.md",
-    "ARP.md",
-    "Excalidraw/DHCP.md",
     "StpQuestion 2.md",
-    "question_mark_cartoony_with_eyes_monsterbrain.svg",
-    "DNS Setup.md",
-    "VirtualBox network.md",
-    "3431d2e3-87fc-4551-bcaa-3a44c5581002.png",
-    "sysctl.md",
-    "3431d2e3-87fc-4551-bcaa-3a44c5581002 1.png",
-    "Untitled",
-    "Troubleshooting DNS lookup.md",
-    "systemctl.md",
-    "services.md",
-    "TP1 Q&A.md",
-    "NAT Masquerading.md",
-    "NAT.md",
-    "goal-svgrepo-com.svg",
-    "Pasted Image 20251106164818_521.png",
-    "Pasted Image 20251106162823_607.png",
     "Internet Infrastructure.md",
-    "The journey of an Ethernet Frame.md",
-    "De-encapsulation & Re-encapsulation.md",
-    "line-vec.svg",
-    "IP Address.md",
-    "Link-Layer Discovery & Authentication.md",
-    "ISP.md",
-    "TCP.md",
-    "1592651906router-symbol.svg",
-    "Web-Browser.svg",
-    "Ethernet frames.md",
-    "remote vs local.md",
-    "systemd-networkd.md",
-    "linux-opened-svgrepo-com.svg",
-    "Excalidraw",
+    "Untitled Kanban 2.md",
+    "Excalidraw/TP1.excalidraw.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "copilot-custom-prompts"
+    "Untitled Kanban 1.md",
+    "Untitled Kanban.md",
+    "Pasted Image 20251212135225_950.png",
+    "Pasted Image 20251212135225_941.svg",
+    "Excalidraw/StpQuestion 3.md",
+    "Excalidraw/MAC Address.md",
+    "Excalidraw/Firmware.md",
+    "Excalidraw/DHCP.md",
+    "Excalidraw/dhclient.md",
+    "ARP.md",
+    "Apache Tomcat.md",
+    "apache-tomcat-apache-http-server-installation-java-platform-enterprise-edition-others-d1c7ac89231abf71ab2e66215202d173.png",
+    "api.svg",
+    "AOP.md",
+    "Excalidraw/DispatcherServlet.excalidraw.md",
+    "test",
+    "Excalidraw/Presentation.excalidraw.md",
+    "Excalidraw/Spring Boot Setup.excalidraw.md",
+    "Excalidraw/Architectures.excalidraw.md",
+    "0_1iuj1QRg0zBPrAc0.jpg",
+    "coffee-bean-cafe-vector-coffee-beans-shading-1d604a7821189205b615506ff12aad6a.png",
+    "@EnableAutoConfiguration.md",
+    "classpath.md",
+    "Spring Framework.md",
+    "JWT.md",
+    "Spring Expression Language (SpEL).md",
+    "JWT vs Cookies.md",
+    "53ef2102-api-penetration-testing.png",
+    "scan.svg",
+    "pngegg (6).png",
+    "Folder_icon.png",
+    "TCP",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "Untitled",
+    "Untitled.base",
+    "How thread is related to blocking I",
+    "excali",
+    "Untitled 2.base",
+    "Untitled 1.canvas"
   ]
 }
