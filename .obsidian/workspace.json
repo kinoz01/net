@@ -4,75 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "8d7e7bc5c251b904",
-        "type": "split",
+        "id": "17de700aa56d035e",
+        "type": "tabs",
         "children": [
           {
-            "id": "17de700aa56d035e",
-            "type": "tabs",
-            "dimension": 81.02466793168881,
-            "children": [
-              {
-                "id": "d771fb0381bd0846",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Excalidraw/remote.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "remote.excalidraw"
-                }
-              }
-            ]
+            "id": "d771fb0381bd0846",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ssh.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ssh.excalidraw"
+            }
           },
           {
-            "id": "e7c2421584d3fd6e",
-            "type": "tabs",
-            "dimension": 18.975332068311197,
-            "children": [
-              {
-                "id": "ac2b9412f507dd75",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": "/home/kino/net",
-                      "focus": false,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/bash",
-                        "name": "tty1",
-                        "platforms": {
-                          "darwin": true,
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "restoreHistory": false,
-                        "rightClickAction": "copyPaste",
-                        "successExitCodes": [
-                          "0",
-                          "SIGINT",
-                          "SIGTERM"
-                        ],
-                        "terminalOptions": {
-                          "documentOverride": null
-                        },
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": null
-                    }
-                  },
-                  "icon": "terminal",
-                  "title": "Terminal: kino@pop-os: ~/net"
+            "id": "0aeff90b3dbcd8b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/remote.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "remote.excalidraw"
+            }
+          },
+          {
+            "id": "1871bda274c99a61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tcp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -237,19 +220,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 290.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "terminal:Open terminal": false,
       "obsidian-git:Open Git source control": false,
+      "canvas:Create new canvas": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false,
       "interactivity:Run Interactivity": false
@@ -258,6 +242,22 @@
   "active": "d771fb0381bd0846",
   "lastOpenFiles": [
     "Excalidraw/remote.excalidraw.md",
+    "add-vm to ssh AWS Guide.md",
+    "Untitled.md",
+    "PTY.md",
+    "Excalidraw/ssh.excalidraw.md",
+    "ChatGPT_Image_Dec_15__2025__08_06_23_AM-removebg-preview.png",
+    "TCP.md",
+    "ChatGPT Image Dec 15, 2025, 08_06_23 AM.png",
+    "Virtual Router.md",
+    "Network Modes in VirtualBox.md",
+    "NAT Network Mode.md",
+    "Pasted Image 20251215060145_938.svg",
+    "darrow.svg",
+    "blip1pqa754f3d28qfo3gvhk1s.png",
+    "pty.svg",
+    "s132_sylindre.png",
+    "testok.canvas",
     "Excalidraw/How does the internet work.excalidraw.md",
     "StpQuestion 2.md",
     "Internet Infrastructure.md",
@@ -276,25 +276,10 @@
     "ARP.md",
     "Apache Tomcat.md",
     "apache-tomcat-apache-http-server-installation-java-platform-enterprise-edition-others-d1c7ac89231abf71ab2e66215202d173.png",
-    "api.svg",
     "AOP.md",
     "Excalidraw/DispatcherServlet.excalidraw.md",
     "test",
     "Excalidraw/Presentation.excalidraw.md",
-    "Excalidraw/Spring Boot Setup.excalidraw.md",
-    "Excalidraw/Architectures.excalidraw.md",
-    "0_1iuj1QRg0zBPrAc0.jpg",
-    "coffee-bean-cafe-vector-coffee-beans-shading-1d604a7821189205b615506ff12aad6a.png",
-    "@EnableAutoConfiguration.md",
-    "classpath.md",
-    "Spring Framework.md",
-    "JWT.md",
-    "Spring Expression Language (SpEL).md",
-    "JWT vs Cookies.md",
-    "53ef2102-api-penetration-testing.png",
-    "scan.svg",
-    "pngegg (6).png",
-    "Folder_icon.png",
     "TCP",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
@@ -303,7 +288,6 @@
     "Untitled.base",
     "How thread is related to blocking I",
     "excali",
-    "Untitled 2.base",
-    "Untitled 1.canvas"
+    "Untitled 2.base"
   ]
 }
