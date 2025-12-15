@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,8 +250,9 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "1871bda274c99a61",
+  "active": "0aeff90b3dbcd8b7",
   "lastOpenFiles": [
+    "Untitled.md",
     "Excalidraw/remote.excalidraw.md",
     "Network Modes in VirtualBox.md",
     "Excalidraw/ssh.excalidraw.md",
@@ -275,7 +276,6 @@
     "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "Untitled.md",
     "key3.svg",
     "add-vm to ssh AWS Guide.md",
     "PTY.md",
