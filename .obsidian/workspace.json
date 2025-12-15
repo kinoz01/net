@@ -65,8 +65,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,10 +249,10 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "0aeff90b3dbcd8b7",
+  "active": "d771fb0381bd0846",
   "lastOpenFiles": [
-    "Untitled.md",
     "Excalidraw/remote.excalidraw.md",
+    "Untitled.md",
     "Network Modes in VirtualBox.md",
     "Excalidraw/ssh.excalidraw.md",
     "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
