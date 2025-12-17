@@ -47,3 +47,16 @@ or :
 ssh -i "sshd.pem" ubuntu@ec2-56-228-11-78.eu-north-1.compute.amazonaws.com
 ```
 
+### 6.
+To switch to `fr` keyboard:
+
+```bash
+apt install console-data
+```
+
+Followed by:
+
+```bash
+loadkeys fr
+```
+

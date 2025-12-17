@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d771fb0381bd0846",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/ssh.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ssh.excalidraw"
-            }
-          },
-          {
-            "id": "0aeff90b3dbcd8b7",
+            "id": "84d29623d0edfd37",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -32,12 +20,24 @@
             }
           },
           {
-            "id": "1871bda274c99a61",
+            "id": "ef75dcff7538d8d5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/ssh.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ssh.excalidraw"
+            }
+          },
+          {
+            "id": "81bbd2cb0186296c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Enable-Disable Console Login Serivce.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "e15fe8980d487af2",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Enable-Disable Console Login Serivce"
             }
           }
         ]
@@ -97,8 +87,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tcp",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -122,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200
   },
   "right": {
     "id": "354adb2d95b9f673",
@@ -249,47 +239,48 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "d771fb0381bd0846",
+  "active": "84d29623d0edfd37",
   "lastOpenFiles": [
-    "Excalidraw/remote.excalidraw.md",
-    "Untitled.md",
-    "Network Modes in VirtualBox.md",
     "Excalidraw/ssh.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.svg",
-    "Excalidraw/Scripts/Downloaded/Set Stroke Width of Selected Elements.md",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.svg",
-    "Excalidraw/Scripts/Downloaded/Set Text Alignment.md",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Sticky Notes.md",
-    "Excalidraw/Scripts/Downloaded/Uniform size.svg",
-    "Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "Excalidraw/Scripts/Downloaded/Toggle Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Toggle Grid.md",
-    "Excalidraw/Scripts/Downloaded/Text to Path.svg",
-    "Excalidraw/Scripts/Downloaded/Text to Path.md",
-    "Excalidraw/Scripts/Downloaded/Shade Master.svg",
-    "Excalidraw/Scripts/Downloaded/Shade Master.md",
-    "Excalidraw/Scripts/Downloaded/Slideshow.svg",
-    "Excalidraw/Scripts/Downloaded/Slideshow.md",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.svg",
-    "Excalidraw/Scripts/Downloaded/Split Ellipse.md",
+    "Excalidraw/remote.excalidraw.md",
+    "Enable-Disable Console Login Serivce.md",
+    "Cases Where SSH Does Not Provide a Remote Terminal.md",
+    "SSH vs HTTPS.md",
+    "Setup Passwordless Authentication.md",
+    "SSH_X11_Forwarding.md",
+    "Local Port Forwarding.md",
+    "Checksum.md",
+    "checksum vs hashing.md",
+    "SSH Directory Listings.md",
+    "ssh folders guide.md",
+    "Initial SSH Connection Security.md",
+    "Creating a Digital Signature.md",
+    "Public Key Authentication.md",
+    "Host Key.md",
+    "416575c4-d9d0-4269-9a4a-a1113abd58ff.png",
+    "Checksum 2.md",
+    "Untitled 1.md",
+    "MAC vs Digital Signature.md",
+    "UDP.md",
+    "Checksum calculation.md",
+    "Message Authentication Code (MAC).md",
+    "800c1303-d0bd-4e07-b9fe-9f3639230e52.png",
+    "ISP.md",
+    "blip1pqa754f3d28qfo3gvhk1s.png",
+    "alice.svg",
+    "IP Address.md",
+    "7d9c680f-dd8d-46bb-bff5-3330e2c3a784 (1).png",
+    "2be1c396-c5df-46c8-bcc1-832a65524c2b (1).png",
+    "add-vm to ssh AWS Guide.md",
+    "keys Fingerprint.md",
+    "Pasted Image 20251215060145_938.svg",
+    "Pasted Image 20251216195706_627.svg",
+    "Pasted Image 20251216154240_187.svg",
+    "tube.svg",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
-    "key3.svg",
-    "add-vm to ssh AWS Guide.md",
-    "PTY.md",
-    "TCP.md",
-    "Virtual Router.md",
-    "NAT Network Mode.md",
     "testok.canvas",
-    "Excalidraw/How does the internet work.excalidraw.md",
-    "StpQuestion 2.md",
-    "Internet Infrastructure.md",
-    "Untitled Kanban 2.md",
-    "Excalidraw/TP1.excalidraw.md",
     "Untitled.canvas",
-    "Untitled Kanban 1.md",
-    "Untitled Kanban.md",
     "test",
     "TCP",
     "Excalidraw",
