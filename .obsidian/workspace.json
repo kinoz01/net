@@ -13,18 +13,6 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/remote.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "remote.excalidraw"
-            }
-          },
-          {
-            "id": "ef75dcff7538d8d5",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
                 "file": "Excalidraw/ssh.excalidraw.md"
               },
               "icon": "excalidraw-icon",
@@ -32,30 +20,19 @@
             }
           },
           {
-            "id": "81bbd2cb0186296c",
+            "id": "a11f9269fbc64fff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Enable-Disable Console Login Serivce.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/remote.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Enable-Disable Console Login Serivce"
+              "icon": "excalidraw-icon",
+              "title": "remote.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +216,15 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "84d29623d0edfd37",
+  "active": "a11f9269fbc64fff",
   "lastOpenFiles": [
     "Excalidraw/ssh.excalidraw.md",
     "Excalidraw/remote.excalidraw.md",
-    "Enable-Disable Console Login Serivce.md",
+    "add-vm to ssh AWS Guide.md",
+    "Message Authentication Code (MAC).md",
     "Cases Where SSH Does Not Provide a Remote Terminal.md",
+    "Excalidraw/Firmware.md",
+    "Enable-Disable Console Login Serivce.md",
     "SSH vs HTTPS.md",
     "Setup Passwordless Authentication.md",
     "SSH_X11_Forwarding.md",
@@ -263,7 +243,6 @@
     "MAC vs Digital Signature.md",
     "UDP.md",
     "Checksum calculation.md",
-    "Message Authentication Code (MAC).md",
     "800c1303-d0bd-4e07-b9fe-9f3639230e52.png",
     "ISP.md",
     "blip1pqa754f3d28qfo3gvhk1s.png",
@@ -271,8 +250,6 @@
     "IP Address.md",
     "7d9c680f-dd8d-46bb-bff5-3330e2c3a784 (1).png",
     "2be1c396-c5df-46c8-bcc1-832a65524c2b (1).png",
-    "add-vm to ssh AWS Guide.md",
-    "keys Fingerprint.md",
     "Pasted Image 20251215060145_938.svg",
     "Pasted Image 20251216195706_627.svg",
     "Pasted Image 20251216154240_187.svg",

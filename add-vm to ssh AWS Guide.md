@@ -48,6 +48,11 @@ ssh -i "sshd.pem" ubuntu@ec2-56-228-11-78.eu-north-1.compute.amazonaws.com
 ```
 
 ### 6.
+To gain root access use:
+```bash
+sudo su -
+```
+### 7.
 To switch to `fr` keyboard:
 
 ```bash
@@ -59,4 +64,23 @@ Followed by:
 ```bash
 loadkeys fr
 ```
+
+To make the French console layout stick across reboots, update the system keyboard config instead of just running loadkeys:
+
+1. Edit `/etc/default/keyboard` (or run `sudo dpkg-reconfigure keyboard-configuration`) and set:
+    
+    `XKBMODEL="pc105" XKBLAYOUT="fr" XKBVARIANT="" XKBOPTIONS=""`
+    
+ 2. Apply it to the current console: `sudo setupcon` (or simply reboot).
+
+Alternatively, on `systemd` hosts you can run `sudo localectl set-keymap fr` which writes `/etc/vconsole.conf` for you. After that, every TTY will boot with the AZERTY layout.
+
+### 8.
+Xauthority Error while using [[SSH_X11_Forwarding]] was fixed by:
+
+```bash
+export XAUTHORITY=$HOME/.Xauthority 
+```
+
+https://unix.stackexchange.com/questions/162979/annoying-message-x11-connection-rejected-because-of-wrong-authentication-while
 

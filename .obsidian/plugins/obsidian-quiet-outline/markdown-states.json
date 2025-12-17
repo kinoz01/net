@@ -172,14 +172,14 @@
     "expandedKeys": []
   },
   "add-vm to ssh AWS Guide.md": {
-    "scroll": 30.814583333333335,
+    "scroll": 59.96800595238095,
     "cursor": {
       "from": {
-        "line": 62,
+        "line": 86,
         "ch": 0
       },
       "to": {
-        "line": 62,
+        "line": 86,
         "ch": 0
       }
     },
@@ -326,7 +326,7 @@
     "expandedKeys": []
   },
   "Message Authentication Code (MAC).md": {
-    "scroll": 53.607421875,
+    "scroll": 57.146341463414636,
     "cursor": {
       "from": {
         "line": 66,
@@ -536,7 +536,7 @@
     "expandedKeys": []
   },
   "Cases Where SSH Does Not Provide a Remote Terminal.md": {
-    "scroll": 0,
+    "scroll": 63.76056338028169,
     "cursor": {
       "from": {
         "line": 3,
