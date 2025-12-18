@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "a11f9269fbc64fff",
+            "id": "228eba65e02ca8bb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -216,12 +216,14 @@
       "interactivity:Run Interactivity": false
     }
   },
-  "active": "a11f9269fbc64fff",
+  "active": "228eba65e02ca8bb",
   "lastOpenFiles": [
     "Excalidraw/ssh.excalidraw.md",
     "Excalidraw/remote.excalidraw.md",
-    "add-vm to ssh AWS Guide.md",
+    "MAC vs Digital Signature.md",
     "Message Authentication Code (MAC).md",
+    "Checksum 2.md",
+    "add-vm to ssh AWS Guide.md",
     "Cases Where SSH Does Not Provide a Remote Terminal.md",
     "Excalidraw/Firmware.md",
     "Enable-Disable Console Login Serivce.md",
@@ -238,9 +240,7 @@
     "Public Key Authentication.md",
     "Host Key.md",
     "416575c4-d9d0-4269-9a4a-a1113abd58ff.png",
-    "Checksum 2.md",
     "Untitled 1.md",
-    "MAC vs Digital Signature.md",
     "UDP.md",
     "Checksum calculation.md",
     "800c1303-d0bd-4e07-b9fe-9f3639230e52.png",
